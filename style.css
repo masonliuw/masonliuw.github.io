@@ -1,0 +1,28 @@
+#portrait {
+    position-relative: float-left;
+    width: 250px;
+    float: right;
+    margin: 25px;
+}
+
+li {
+    margin: 0 0 10px 0;
+}
+
+summary {
+    margin: 25px 0 5px 0;
+}
+
+HR { 
+    margin: 20px 0 20px 0;
+}
+
+body { 
+    margin: 1em auto;
+    max-width: 1000px;
+    font-family: "candara";
+}
+
+html {
+    padding: 0px 20px;
+}
