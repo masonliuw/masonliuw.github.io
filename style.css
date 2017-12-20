@@ -5,6 +5,21 @@
     margin: 25px;
 }
 
+#detection {
+    position-relative: float-left;
+    width: 250px;
+    float: left;
+    margin: 25px;
+}
+
+
+#sceneflow {
+    position-relative: float-left;
+    width: 250px;
+    float: left;
+    margin: 25px;
+}
+
 li {
     margin: 0 0 10px 0;
 }
